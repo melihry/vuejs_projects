@@ -40,9 +40,7 @@
                     </div>
                 </div>
             </div>
-            <!--=======  End of header top bar  =======-->
-
-            <!--=======  header info area  =======-->
+        
             <div class="header-info-area">
                 <div class="container">
                     <div class="row align-items-center">
@@ -102,7 +100,7 @@
                                         <nav>
                                             <ul>
                                                 <li class="has-children has-children--multilevel-submenu">
-                                                    <router-link to="/home-one">HOME</router-link>
+                                                    <router-link to="/">HOME</router-link>
                                                     <ul class="submenu">
                                                         <li>
                                                             <router-link to="/home-one">Home One</router-link>
